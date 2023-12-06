@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jmaris
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: olivier3lanc/Jekyll-LibDoc
 plugins:
   - jekyll-feed
 
