@@ -31,7 +31,7 @@ github_username:  jmaris
 
 # Build settings
 #theme: minima
-remote_theme: olivier3lanc/Jekyll-LibDoc
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
