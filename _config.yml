@@ -32,7 +32,8 @@ search_enabled: true
 
 # Build settings
 #theme: minima
-theme: just-the-docs
+remote_theme: just-the-docs
+#theme: just-the-docs
 logo: "/assets/logo.png"
 plugins:
   - jekyll-feed
