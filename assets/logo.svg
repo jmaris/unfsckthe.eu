@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="287mm"
+   height="50mm"
+   viewBox="0 0 287 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0022096"
+     inkscape:cx="619.63087"
+     inkscape:cy="66.353386"
+     inkscape:window-width="2274"
+     inkscape:window-height="1351"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.3219px;font-family:'VCR OSD Mono';-inkscape-font-specification:'VCR OSD Mono';word-spacing:1.86981px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.250131;stroke-linejoin:round"
+       x="5.4654851"
+       y="40.360115"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:39.3219px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.250131;stroke-opacity:1"
+         x="5.4654851"
+         y="40.360115"><tspan
+           style="fill:#1a1a1a;stroke-width:0.250131"
+           id="tspan3"
+           dx="0 0 0 0 7.0560918"
+           dy="0 0 0 0 -1.3325745">UNF<tspan
+   style="font-size:54.6137px;letter-spacing:-11.5598px;word-spacing:1.71953px;fill:#d3d300;fill-opacity:1;stroke-width:0.250131"
+   id="tspan4"
+   dx="-7.0560918"
+   dy="1.3325745">⋆</tspan>CKTHE.</tspan><tspan
+           style="fill:#0a00ff;fill-opacity:1;stroke-width:0.250131"
+           id="tspan2">EU</tspan></tspan></text>
+  </g>
+</svg>
