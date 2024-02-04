@@ -10,7 +10,7 @@ Unfortunately, technical jargon (and acronyms) is common in the European Union. 
 
 ## Need-to-know
 ### Commission Work-Programme
-The list of legislative projects the EU has for a period of one year. Each year a new programme is announced.
+The list of projects for laws that the EU wants to make over a period of one year. Each year a new programme is announced.
 ### Proposal
 A draft for a law, sent by the European Commission to the European Parliament and Council of the European Union.
 ### MEP
