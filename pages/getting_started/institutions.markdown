@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Institutions
-The EU has three institutions that matter to you when lobbying the EU: **The European Commission**, **the European Parliament**, and the **Council of the European Union**.
+The EU has three institutions that matter to you when lobbying the EU: **[The European Commission](https://unfsckthe.eu/pages/getting_started/institutions.html#the-european-commission)**, **[the European Parliament](https://unfsckthe.eu/pages/getting_started/institutions.html#the-european-parliament)**, and the **[Council of the European Union](https://unfsckthe.eu/pages/getting_started/institutions.html#the-council-of-the-european-union)**.
 
 ## The European Commission
 
