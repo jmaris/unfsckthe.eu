@@ -11,6 +11,8 @@ Unfortunately, technical jargon (and acronyms) is common in the European Union. 
 ## Need-to-know
 ### Commission Work-Programme
 The list of projects for laws that the EU wants to make over a period of one year. Each year a new programme is announced.
+### Stakeholder Consultation
+A period of time where the European Commission collects feedback about the issue they want to make a law about. This feedback from come from Businesses, NGOs, or individual citizens.
 ### Proposal
 A draft of a law, sent by the European Commission to the European Parliament and Council of the European Union.
 ### MEP
